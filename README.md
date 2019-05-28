@@ -24,6 +24,7 @@ The following build dependencies needs to be fulfilled to support the full featu
 -   [diesel_cli](https://github.com/diesel-rs/diesel)
 -   [docker](https://github.com/docker/docker-ce)
 -   [postgresql (libpg)](https://www.postgresql.org/)
+-   [g++](https://www.geeksforgeeks.org)
 
 The app consist of a frontend and a backend. For getting started with hacking, the backend can tested via
 `make run-backend`, whereas the frontend can be tested with `make run-frontend`. You can adapt the application
